@@ -14,9 +14,6 @@ export default function Header() {
                         <li className='contact'><Link to='/contact'><a>Contact</a></Link></li>
                     </ul>
                 </div>
-                    <h1>Nick Leonidov</h1>
-                    <h3>Software Engineer</h3>
-                <hr />
             </div>
         </div>
     )

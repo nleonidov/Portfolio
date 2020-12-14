@@ -6,6 +6,7 @@ import Layout from './layouts/Layout';
 import About from './screens/About';
 import Contact from './screens/Contact';
 import Main from './containers/Main';
+import Work from './screens/Work';
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
           </Route>
 
           <Route path='/work'>
-
+            <Work />
           </Route>
 
           <Route path='/contact'>

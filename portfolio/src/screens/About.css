@@ -1,0 +1,18 @@
+.about-bio {
+  max-width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  color: #000000;
+  text-shadow: 2px 2px 4px #ffffff;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+.about-me {
+  max-width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  color: #000000;
+  text-shadow: 2px 2px 4px #ffffff;
+  font-size: 16px;
+}

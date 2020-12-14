@@ -1,0 +1,114 @@
+#project-2 {
+  max-width: 700px;
+  max-height: 250px;
+  border: 6px solid #fff;
+}
+
+#project-3 {
+  max-width: 700px;
+  max-height: 250px;
+  border: 6px solid #fff;
+}
+
+#project-4 {
+  max-width: 700px;
+  max-height: 250px;
+  border: 6px solid #fff;
+}
+
+.twobox {
+  background-color: #94bcdd;
+  border-radius: 20px;
+  max-width: 800px;
+  box-shadow: 2px 2px 4px grey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.threebox {
+  background-color: #94bcdd;
+  border-radius: 20px;
+  max-width: 800px;
+  box-shadow: 2px 2px 4px grey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+.fourbox {
+  background-color: #94bcdd;
+  border-radius: 20px;
+  max-width: 800px;
+  box-shadow: 2px 2px 4px grey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+}
+
+.app-one,
+.git-one {
+  justify-content: center;
+}
+
+.app-two,
+.git-two {
+  justify-content: center;
+}
+
+.app-three,
+.git-three {
+  justify-content: center;
+}
+
+.one-links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.two-links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.three-links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.app-one {
+  background-color: #000000;
+  padding: 6px 6px;
+  border-radius: 18px;
+}
+
+.git-one {
+  background-color: #000000;
+  padding: 6px 6px;
+  border-radius: 18px;
+}
+
+.app-two {
+  background-color: #000000;
+  padding: 6px 6px;
+  border-radius: 18px;
+}
+
+.git-two {
+  background-color: #000000;
+  padding: 6px 6px;
+  border-radius: 18px;
+}
+
+.app-three {
+  background-color: #000000;
+  padding: 6px 6px;
+  border-radius: 18px;
+}
+
+.git-three {
+  background-color: #000000;
+  padding: 6px 6px;
+  border-radius: 18px;
+}

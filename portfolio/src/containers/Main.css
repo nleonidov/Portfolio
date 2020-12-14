@@ -1,3 +1,56 @@
-body {
-  background-image: url(https://imgur.com/KPcB0Zq);
+#me {
+  width: 250px;
+  height: 250px;
+  border-radius: 250px;
+  border: 5px solid #ffffff;
+}
+
+.line-break {
+  max-width: 125px;
+}
+
+.name {
+  font-size: 50px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.job {
+  font-size: 20px;
+  text-shadow: 1px 1px 2px #000000;
+}
+
+.stack-bio {
+  max-width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  color: #000000;
+  text-shadow: 2px 2px 4px #ffffff;
+  font-size: 16px;
+}
+
+.work-link {
+  margin-top: 20px;
+  justify-content: center;
+  color: #000000;
+  font-size: 20px;
+}
+
+.who-link {
+  margin-top: 20px;
+  justify-content: center;
+  color: #000000;
+  font-size: 20px;
+}
+
+.who-bio {
+  max-width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  color: #000000;
+  text-shadow: 2px 2px 4px #ffffff;
+  font-size: 16px;
+}
+
+h1 {
+  text-shadow: 2px 2px 4px #000000;
 }
