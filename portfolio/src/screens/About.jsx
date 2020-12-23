@@ -3,7 +3,7 @@ import './About.css';
 
 export default function About(props) {
 
-    return(
+    return (
         <>
             <div>
                 <h1>About Me</h1>
